@@ -211,7 +211,7 @@ const slideData = [
     link: "#"
   },
   {
-    title: "BEAUTIFUL WORLD",
+    title: "CORNERS UNSPOKEN"
     number: "02",
     description: "in the uneven<br>the broken<br>the overlooked",
     link: "#"
